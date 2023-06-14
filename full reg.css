@@ -1,0 +1,8 @@
+body{
+    background-image: url("bagimg.jpg");
+}
+.h2{
+    width: 20px;
+    height: 20px;
+    background-color: fuchsia;
+}
